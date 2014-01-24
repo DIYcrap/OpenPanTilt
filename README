@@ -1,0 +1,2 @@
+OpenPanTilt.scad contains the OpenSCAD file for the OpenPanTilt unit. 
+In order to print one of the nine parts, just comment out the parts you do not need, and export to STL. Depending on your Slicer you might need to transform the part in either X, Y or Z direction before exporting it to STL. 
